@@ -1,0 +1,94 @@
+body {
+    color:rgb(12, 8, 3);
+  background-color: rgb(247, 247, 247);
+  margin:0mm;
+  font-family: sans-serif;}
+  
+  .centro{
+    text-align:center; 
+  }
+  
+  li{
+      list-style-type:circle;
+  }
+
+  h1{
+    color: rgb(39, 37, 37);
+    background-color: rgb(119, 118, 117);
+    fint-family: verdana;
+    font-size: 200%;
+  }
+  h2{
+   color: rgb(35, 35, 36);
+    background-color: rgb(192, 245, 195);
+    fint-family: verdana;
+    font-size: 150%; 
+  }
+  
+element.style {
+    font-size: 16px;
+    line-height: 24px;
+    text-align: left;
+    font-family: Raleway;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.vc_custom_1586311167749 {
+    padding-right: 1vh !important;
+    padding-bottom: 2vh !important;
+    padding-left: 1vh !important;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+<p 
+style="font-size: 
+16px;line-height: 
+24px;text-align: 
+left;font-family:
+Raleway;font-weight:400;
+font-style:normal" class="vc_custom_heading vc_custom_1586311312106">
+1. Debes completar el formulario que se encuentra al final de esta pagina. Recibirás una copia del mismo en tu correo electrónico.</p>
+
+
+  }
+  ol{
+      list-style-type: upper-roman; 
+  }
+  ul{
+      padding:0;
+      width:100%;
+  }
+  li{
+      display: inline;
+  }
+  a{
+      outline:none;
+      text-decoration: none;
+      display: inline-block;
+      width:19.5%;
+      margin-right:0.625%;
+      text-align:center;
+      line-height:3;
+      color:black;
+  }
+  li:last-child a {
+      margin-right:0;
+  }
+  a:link, a:visited, a:focus{
+      background:rgb(177, 167, 174);
+  }
+  a:hover{
+      background:orange;
+  }
+  a:active{
+      background:red;
+      color:white;
+  }
