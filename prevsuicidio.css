@@ -12,6 +12,7 @@ body {
       list-style-type:circle;
   }
 
+<<<<<<< HEAD
   h1{
     color: rgb(39, 37, 37);
     background-color: rgb(119, 118, 117);
@@ -24,6 +25,9 @@ body {
 
     font-size: 150%; 
   }
+=======
+
+>>>>>>> origin/susana
   
 element.style {
     font-size: 16px;
