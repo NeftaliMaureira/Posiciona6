@@ -12,18 +12,7 @@ body {
       list-style-type:circle;
   }
 
-  h1{
-    color: rgb(39, 37, 37);
-    background-color: rgb(119, 118, 117);
-    fint-family: verdana;
-    font-size: 200%;
-  }
-  h2{
-   color: rgb(35, 35, 36);
-    background-color: rgb(192, 245, 195);
-    fint-family: verdana;
-    font-size: 150%; 
-  }
+
   
 element.style {
     font-size: 16px;
@@ -47,18 +36,6 @@ p {
     margin-inline-start: 0px;
     margin-inline-end: 0px;
 }
-
-<p 
-style="font-size: 
-16px;line-height: 
-24px;text-align: 
-left;font-family:
-Raleway;font-weight:400;
-font-style:normal" class="vc_custom_heading vc_custom_1586311312106">
-1. Debes completar el formulario que se encuentra al final de esta pagina. Recibirás una copia del mismo en tu correo electrónico.</p>
-
-
-  }
   ol{
       list-style-type: upper-roman; 
   }
